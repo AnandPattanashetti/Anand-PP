@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ashishsarawad.cloud/sitemap.xml
+Sitemap: https://anandshetti.cloud/sitemap.xml
